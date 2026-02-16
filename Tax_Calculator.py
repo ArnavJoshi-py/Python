@@ -2,8 +2,8 @@
 # Tax Calculator Web App using Streamlit
 # Concept: Direct Taxation & Progressive Tax
 # ---------------------------------------------
-pip install streamlit numpy matplotlib
-streamlit run app.py
+install streamlit numpy matplotlib
+
 
 import streamlit as st
 import numpy as np
